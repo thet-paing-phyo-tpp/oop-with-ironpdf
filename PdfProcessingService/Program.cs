@@ -1,0 +1,1 @@
+﻿License.LicenseKey = Environment.GetEnvironmentVariable("SUITE_LICENSE_KEY");
